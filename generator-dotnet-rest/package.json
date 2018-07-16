@@ -12,6 +12,7 @@
   "author": "Zachary Yates",
   "license": "MIT",
   "dependencies": {
+    "npm": "^6.2.0",
     "underscore.string": "^3.3.4",
     "yeoman-generator": "^3.0.0"
   }
